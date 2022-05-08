@@ -1,0 +1,113 @@
+C:\Users\User\source\repos\proyectoSemestre\proyectoSemestre\bin\Debug\proyectoSemestre.exe.config
+C:\Users\User\source\repos\proyectoSemestre\proyectoSemestre\bin\Debug\proyectoSemestre.exe
+C:\Users\User\source\repos\proyectoSemestre\proyectoSemestre\bin\Debug\proyectoSemestre.pdb
+C:\Users\User\source\repos\proyectoSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\proyectoSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.Form1.resources
+C:\Users\User\source\repos\proyectoSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.Properties.Resources.resources
+C:\Users\User\source\repos\proyectoSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.GenerateResource.cache
+C:\Users\User\source\repos\proyectoSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\proyectoSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.exe
+C:\Users\User\source\repos\proyectoSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.pdb
+C:\Users\User\source\repos\proyectoSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.Form2.resources
+D:\proyectoSemestre\proyectoSemestre\bin\Debug\proyectoSemestre.exe.config
+D:\proyectoSemestre\proyectoSemestre\bin\Debug\proyectoSemestre.exe
+D:\proyectoSemestre\proyectoSemestre\bin\Debug\proyectoSemestre.pdb
+D:\proyectoSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.AssemblyReference.cache
+D:\proyectoSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.SuggestedBindingRedirects.cache
+D:\proyectoSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.Form1.resources
+D:\proyectoSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.Form2.resources
+D:\proyectoSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.Properties.Resources.resources
+D:\proyectoSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.GenerateResource.cache
+D:\proyectoSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.CoreCompileInputs.cache
+D:\proyectoSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.exe
+D:\proyectoSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.pdb
+D:\proyectoSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.Form3.resources
+C:\Users\User\source\repos\proyectoSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.Form3.resources
+C:\Users\User\source\repos\proyectoSemestre - copia\proyectoSemestre\bin\Debug\proyectoSemestre.exe.config
+C:\Users\User\source\repos\proyectoSemestre - copia\proyectoSemestre\bin\Debug\proyectoSemestre.exe
+C:\Users\User\source\repos\proyectoSemestre - copia\proyectoSemestre\bin\Debug\proyectoSemestre.pdb
+C:\Users\User\source\repos\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form1.resources
+C:\Users\User\source\repos\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form2.resources
+C:\Users\User\source\repos\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form3.resources
+C:\Users\User\source\repos\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Properties.Resources.resources
+C:\Users\User\source\repos\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.GenerateResource.cache
+C:\Users\User\source\repos\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.exe
+C:\Users\User\source\repos\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.pdb
+C:\Users\Usuario\Downloads\proyectoSemestre - copia\proyectoSemestre\bin\Debug\proyectoSemestre.exe.config
+C:\Users\Usuario\Downloads\proyectoSemestre - copia\proyectoSemestre\bin\Debug\proyectoSemestre.exe
+C:\Users\Usuario\Downloads\proyectoSemestre - copia\proyectoSemestre\bin\Debug\proyectoSemestre.pdb
+C:\Users\Usuario\Downloads\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form1.resources
+C:\Users\Usuario\Downloads\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form2.resources
+C:\Users\Usuario\Downloads\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form3.resources
+C:\Users\Usuario\Downloads\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Properties.Resources.resources
+C:\Users\Usuario\Downloads\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.exe
+C:\Users\Usuario\Downloads\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.pdb
+C:\Users\User\source\repos\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form10.resources
+C:\Users\User\source\repos\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form4.resources
+C:\Users\User\source\repos\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form5.resources
+C:\Users\User\source\repos\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form6.resources
+C:\Users\User\source\repos\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form7.resources
+C:\Users\User\source\repos\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form8.resources
+C:\Users\User\source\repos\proyectoSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form9.resources
+C:\Users\User\source\repos\proyectoFinalSemestre\proyectoSemestre\bin\Debug\proyectoSemestre.exe.config
+C:\Users\User\source\repos\proyectoFinalSemestre\proyectoSemestre\bin\Debug\proyectoSemestre.exe
+C:\Users\User\source\repos\proyectoFinalSemestre\proyectoSemestre\bin\Debug\proyectoSemestre.pdb
+C:\Users\User\source\repos\proyectoFinalSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\proyectoFinalSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.Form1.resources
+C:\Users\User\source\repos\proyectoFinalSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.Form10.resources
+C:\Users\User\source\repos\proyectoFinalSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.Form2.resources
+C:\Users\User\source\repos\proyectoFinalSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.Form3.resources
+C:\Users\User\source\repos\proyectoFinalSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.Form4.resources
+C:\Users\User\source\repos\proyectoFinalSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.Form5.resources
+C:\Users\User\source\repos\proyectoFinalSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.Form6.resources
+C:\Users\User\source\repos\proyectoFinalSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.Form9.resources
+C:\Users\User\source\repos\proyectoFinalSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.Form8.resources
+C:\Users\User\source\repos\proyectoFinalSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.Form7.resources
+C:\Users\User\source\repos\proyectoFinalSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.Properties.Resources.resources
+C:\Users\User\source\repos\proyectoFinalSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.GenerateResource.cache
+C:\Users\User\source\repos\proyectoFinalSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\proyectoFinalSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.exe
+C:\Users\User\source\repos\proyectoFinalSemestre\proyectoSemestre\obj\Debug\proyectoSemestre.pdb
+C:\Users\User\source\repos\proyectoFinalSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\proyectoFinalSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form1.resources
+C:\Users\User\source\repos\proyectoFinalSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form10.resources
+C:\Users\User\source\repos\proyectoFinalSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form2.resources
+C:\Users\User\source\repos\proyectoFinalSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form3.resources
+C:\Users\User\source\repos\proyectoFinalSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form4.resources
+C:\Users\User\source\repos\proyectoFinalSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form5.resources
+C:\Users\User\source\repos\proyectoFinalSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form6.resources
+C:\Users\User\source\repos\proyectoFinalSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form9.resources
+C:\Users\User\source\repos\proyectoFinalSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form8.resources
+C:\Users\User\source\repos\proyectoFinalSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Form7.resources
+C:\Users\User\source\repos\proyectoFinalSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.Properties.Resources.resources
+C:\Users\User\source\repos\proyectoFinalSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.GenerateResource.cache
+C:\Users\User\source\repos\proyectoFinalSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\proyectoFinalSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.exe
+C:\Users\User\source\repos\proyectoFinalSemestre - copia\proyectoSemestre\obj\Debug\proyectoSemestre.pdb
+C:\Users\User\source\repos\proyectoFinalSemestre - copia\proyectoSemestre\bin\Debug\proyectoSemestre.exe.config
+C:\Users\User\source\repos\proyectoFinalSemestre - copia\proyectoSemestre\bin\Debug\proyectoSemestre.exe
+C:\Users\User\source\repos\proyectoFinalSemestre - copia\proyectoSemestre\bin\Debug\proyectoSemestre.pdb
+C:\Users\User\source\repos\proyectoFinal\proyectoSemestre\bin\Debug\proyectoSemestre.exe.config
+C:\Users\User\source\repos\proyectoFinal\proyectoSemestre\bin\Debug\proyectoSemestre.exe
+C:\Users\User\source\repos\proyectoFinal\proyectoSemestre\bin\Debug\proyectoSemestre.pdb
+C:\Users\User\source\repos\proyectoFinal\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\proyectoFinal\proyectoSemestre\obj\Debug\proyectoSemestre.Form1.resources
+C:\Users\User\source\repos\proyectoFinal\proyectoSemestre\obj\Debug\proyectoSemestre.Form10.resources
+C:\Users\User\source\repos\proyectoFinal\proyectoSemestre\obj\Debug\proyectoSemestre.Form2.resources
+C:\Users\User\source\repos\proyectoFinal\proyectoSemestre\obj\Debug\proyectoSemestre.Form3.resources
+C:\Users\User\source\repos\proyectoFinal\proyectoSemestre\obj\Debug\proyectoSemestre.Form4.resources
+C:\Users\User\source\repos\proyectoFinal\proyectoSemestre\obj\Debug\proyectoSemestre.Form5.resources
+C:\Users\User\source\repos\proyectoFinal\proyectoSemestre\obj\Debug\proyectoSemestre.Form6.resources
+C:\Users\User\source\repos\proyectoFinal\proyectoSemestre\obj\Debug\proyectoSemestre.Form9.resources
+C:\Users\User\source\repos\proyectoFinal\proyectoSemestre\obj\Debug\proyectoSemestre.Form8.resources
+C:\Users\User\source\repos\proyectoFinal\proyectoSemestre\obj\Debug\proyectoSemestre.Form7.resources
+C:\Users\User\source\repos\proyectoFinal\proyectoSemestre\obj\Debug\proyectoSemestre.Properties.Resources.resources
+C:\Users\User\source\repos\proyectoFinal\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.GenerateResource.cache
+C:\Users\User\source\repos\proyectoFinal\proyectoSemestre\obj\Debug\proyectoSemestre.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\proyectoFinal\proyectoSemestre\obj\Debug\proyectoSemestre.exe
+C:\Users\User\source\repos\proyectoFinal\proyectoSemestre\obj\Debug\proyectoSemestre.pdb
